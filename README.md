@@ -55,6 +55,11 @@ Global_Sales  – Total worldwide sales (millions
 
 ![Dashboard](images/dashboard1.png)
 
+(dashboard_ ganre_sales.png
+dashboard_overview.png
+dashboard_sales_by_region.png
+dashboard_sales_year.png)
+
 ---
 
 ## 📊 Key Metrics
