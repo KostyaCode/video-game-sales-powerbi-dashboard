@@ -53,7 +53,7 @@ Global_Sales  – Total worldwide sales (millions
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard1.png)
+![Dashboard](dashboard_ ganre_sales.png)
 
 (dashboard_ ganre_sales.png
 dashboard_overview.png
