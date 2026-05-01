@@ -53,10 +53,10 @@ Global_Sales  – Total worldwide sales (millions
 
 ## 📸 Dashboard Preview
 
-![Ganre_Sales](images/dashboard_ganre_sales.png)
-![Overview](images/dashboard_overview.png)
-![Sales_By_Region](images/dashboard_sales_by_region.png)
-![Sales_Year](images/dashboard_sales_year.png)
+![Ganre_Sales](images/dashboard_ganre_sales.png),
+![Overview](images/dashboard_overview.png),
+![Sales_By_Region](images/dashboard_sales_by_region.png),
+![Sales_Year](images/dashboard_sales_year.png).
 
 ---
 
